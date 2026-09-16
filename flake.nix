@@ -7,7 +7,7 @@
   {
     templates = {
       empty = {
-        path = ./flakes/empty;
+        path = ./flakes/empty/flake.nix;
         description = "empty flake";
       };
     };
